@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.scalatest:scalatest-wordspec_2.13:3.2.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../AboutCodeEnviroment/apache-maven-3.8.6/repo/org/scalatest/scalatest-wordspec_2.13/3.2.12/scalatest-wordspec_2.13-3.2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../../AboutCodeEnviroment/apache-maven-3.8.6/repo/org/scalatest/scalatest-wordspec_2.13/3.2.12/scalatest-wordspec_2.13-3.2.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../AboutCodeEnviroment/apache-maven-3.8.6/repo/org/scalatest/scalatest-wordspec_2.13/3.2.12/scalatest-wordspec_2.13-3.2.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
